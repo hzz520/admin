@@ -1,0 +1,82 @@
+.ant-table-body table{
+    thead>tr>th,tbody>tr>td{
+        text-align: center;
+    }
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.pd30 {
+    padding: 30px!important;
+}
+
+.ml10 {
+    margin-left: 10px!important;
+}
+
+.mr10 {
+    margin-right: 10px!important;
+}
+
+.mr5 {
+   margin-right: 5px!important; 
+}
+
+.ml5 {
+   margin-left: 5px!important; 
+}
+
+.mb40 {
+    margin-bottom: 40px!important;
+}
+
+.mb25 {
+    margin-bottom: 25px!important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.ant-form-inline .ant-form-item.fr {
+    margin-right: 0px;
+}
+
+.mw100 {
+    min-width: 100px;
+}
+
+.mw1050 {
+    min-width: 1050px;
+}
+
+textarea {
+    resize: none;
+}
+
+.hover {
+    cursor: pointer;
+}
+
+.good_list .ant-modal-body{
+    overflow-y: hidden
+}
+
+.carousel {
+    min-height: 100px;
+}
+

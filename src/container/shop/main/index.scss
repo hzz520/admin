@@ -1,0 +1,23 @@
+.shop_main {
+    .sider {
+        background: #fff;
+    }
+
+    .menu {
+        height: calc(100vh - 64px)
+    }
+
+    .panel {
+        padding: 0 24px 24px;
+    }
+
+    .breadcrum {
+        margin: 12px 0;
+    }
+
+    .content {
+        background: #fff;
+        padding: 24px;
+        margin: 0;
+    }
+}

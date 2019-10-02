@@ -1,0 +1,23 @@
+
+$wrapColor:#d9e0e7;
+$contentColor:#2d353c;
+
+.login-wrap {
+    padding-top:160px;
+    background: $wrapColor;
+    height:100vh;
+    .login-content {
+        background: $contentColor;
+        padding: 40px;
+        .login-main {
+            width: 400px;
+            margin: 0 auto;
+            .ant-input, .ant-btn {
+                height: 40px;
+            }
+            .login-form-button{
+                width: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+    <meta content="<%= htmlWebpackPlugin.options.description %>" name="description"/>
+    <meta content="<%= htmlWebpackPlugin.options.keywords %>" name="keywords"/>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/Swiper/3.4.2/css/swiper.min.css">
+    <script src='https://cdn.bootcss.com/Swiper/3.4.2/js/swiper.min.js'></script>
+
+    <!--publlic-->
+    <!--[if lt IE 8]>
+    <script src="http://common.8864.com/web/js/browser-tips.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://common.8864.com/web/js/css3-mediaqueries.js"></script>
+    <script src="http://common.8864.com/web/js/html5shiv.min.js"></script>
+    <![endif]-->
+    
+</head>
+<body>
+    <div id='root'></div>
+    <%if(htmlWebpackPlugin.options.bundleName){%>
+        <script src="<%= htmlWebpackPlugin.options.bundleName %>"></script>
+    <%}%>
+</body>
+</html>
