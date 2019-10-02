@@ -1,0 +1,18 @@
+{
+  "ActiviteConfig.js": "js/ActiviteConfig-6c3b7664.js",
+  "ColumnConfig.js": "js/ColumnConfig-a83762a2.js",
+  "Enter.js": "js/Enter-32fedf88.js",
+  "GoodsEdit.js": "js/GoodsEdit-29301791.js",
+  "GoodsList.js": "js/GoodsList-73855cc2.js",
+  "Login.js": "js/Login-cfbfafa3.js",
+  "Main.js": "js/Main-b67859c2.js",
+  "OrderMange.js": "js/OrderMange-96ef49c6.js",
+  "ProjectConfig.js": "js/ProjectConfig-46420b2a.js",
+  "RecommendConfig.js": "js/RecommendConfig-b84236c4.js",
+  "Shop.js": "js/Shop-4f5a4d85.js",
+  "System.js": "js/System-6d7fc2a6.js",
+  "index.css": "css/index-56fba8f7.css",
+  "index.js": "js/index-9316953c.js",
+  "manifest.js": "js/manifest-720b5d21.js",
+  "vendors.js": "js/vendors-aa13b487.js"
+}
